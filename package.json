@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "y": "^0.3.2"
+  },
+    "scripts": {
+      "test": "jest"
+    }
+}
